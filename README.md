@@ -57,12 +57,4 @@ Feel free to explore my repositories and reach out if you’d like to collaborat
 
 ---
 
-![Quote Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl5bXVzNTl1d3JoMDhicXJqbHFxZ3Nsdjh2MHppbmRyaW01Yzk1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qs6ev2pm8g9dS/giphy.gif)
-
----
-
-### ✍️ Random Dev Quote  
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-
 ![Visitor Counter](https://visitcount.itsvg.in/api?id=itzteddylicious&icon=0&color=12)
