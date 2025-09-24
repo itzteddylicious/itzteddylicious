@@ -15,7 +15,7 @@ Feel free to explore my repositories and reach out if you’d like to collaborat
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trulyabsolutelynotyash)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yash-firke)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itzteddylicious)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itzteddylicious)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milofied_yash)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yash-firke)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itzteddylicious)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itzteddylicious)  
 
 ---
 
