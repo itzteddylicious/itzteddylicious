@@ -49,8 +49,3 @@ Feel free to explore my repositories and reach out if you’d like to collaborat
 ![Tech Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF6NGllMjA4dWdxenRhbDc5dnNvMndmZXBqaWprajZ3c2ttbGN3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itzteddylicious&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itzteddylicious&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzteddylicious&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
